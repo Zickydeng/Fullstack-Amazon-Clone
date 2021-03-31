@@ -7,7 +7,7 @@ Products page(5 items for demo) and a login page fully supported by firebase ana
 A cart section/page that shows sellected items, a checkout/basket items that fully accepts payments(for demo)
 A order and history page that give owner scalability or it has google analytic 
 
-![Amazon-Clone web-app](amazon-clone?raw=true "Amazon-Clone web-app")
+![Amazon-Clone web-app](amazon-clone.png?raw=true "Amazon-Clone web-app")
 
 
 # Getting Started with Create React App
