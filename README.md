@@ -1,3 +1,15 @@
+# A FullStack Amazon-Clone 
+
+#### Live Demo https://clone-13d42.web.app/
+
+This is a fully functional "Ecommerce-app" amazon clone with full end features. The site has following features; 
+Products page(5 items for demo) and a login page fully supported by firebase analytic
+A cart section/page that shows sellected items, a checkout/basket items that fully accepts payments(for demo)
+A order and history page that give owner scalability or it has google analytic 
+
+![Amazon-Clone web-app](amazon-clone?raw=true "Amazon-Clone web-app")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
