@@ -1,6 +1,6 @@
 # A FullStack Amazon-Clone 
 
-#### Live Demo https://clone-13d42.web.app/
+#### [Live Demo](https://clone-13d42.web.app/)
 
 This is a fully functional "Ecommerce-app" amazon clone with full end features. The site has following features; 
 Products page(5 items for demo) and a login page fully supported by firebase analytic
